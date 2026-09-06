@@ -1,1 +1,1 @@
-This is an user system prompt for loyalty-program
+This is an system prompt for loyalty-program (fan-dev)
