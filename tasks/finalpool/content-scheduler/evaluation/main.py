@@ -1,4 +1,4 @@
-# Evaluation script for price-tracker
+# Evaluation script for content-scheduler
 
 def run_evaluation():
     # TODO: Implement actual evaluation logic
