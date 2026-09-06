@@ -1,1 +1,1 @@
-This is an user system prompt for tag-manager
+This is an system prompt for tag-manager (gyy)
