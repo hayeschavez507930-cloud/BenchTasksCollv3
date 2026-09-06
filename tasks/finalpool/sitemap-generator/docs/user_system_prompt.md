@@ -1,1 +1,1 @@
-This is an user system prompt for sitemap-generator
+This is an system prompt for sitemap-generator (gyy)
