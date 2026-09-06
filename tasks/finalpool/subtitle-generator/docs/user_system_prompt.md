@@ -1,1 +1,1 @@
-This is an user system prompt for subtitle-generator
+This is an system prompt for subtitle-generator (haoze)

@@ -1,0 +1,1 @@
+This is an system prompt for streaming-service (haoze)
